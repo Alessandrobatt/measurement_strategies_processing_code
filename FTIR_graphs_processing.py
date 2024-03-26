@@ -8,6 +8,7 @@ data_path = r".\FTIR_source_data"
 # idx_to_plot = [1, 3, 5, 7, 9]       # index of files to plot
 idx_to_plot = [1, 5, 7, 9]
 
+
 plt.close()
 plt.figure(figsize=(7, 5), tight_layout=True, dpi=250)
 
